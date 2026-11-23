@@ -1,0 +1,15 @@
+C_PROGRAMME
+#include <stdio.h>
+
+int main() {
+    int num1, num2, sum;
+
+    printf("Enter two integers: ");
+    scanf("%d %d", &num1, &num2);
+
+    mul = num1 * num2;
+
+    printf("mul: %d\n", mul);
+
+    return 0;
+}
